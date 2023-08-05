@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UWT82+0UI0x1pncXEhI5B9h6puwL7YUEVFviXDUMbLf9GSZHyMslwPMEDu8W+x3L9qp+hYYVsi/0h55BA5DXjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\OneDrive\\Desktop\\p517\\projectsvisual22\\p517 test1\\p517 test1\\p517 test1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

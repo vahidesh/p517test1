@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\P517homeWork2\P517homeWork2\bin\Debug\net6.0\P517homeWork2.exe
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\P517homeWork2\P517homeWork2\bin\Debug\net6.0\P517homeWork2.deps.json
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\P517homeWork2\P517homeWork2\bin\Debug\net6.0\P517homeWork2.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\P517homeWork2\P517homeWork2\bin\Debug\net6.0\P517homeWork2.dll
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\P517homeWork2\P517homeWork2\bin\Debug\net6.0\P517homeWork2.pdb
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\P517homeWork2\P517homeWork2\obj\Debug\net6.0\P517homeWork2.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\P517homeWork2\P517homeWork2\obj\Debug\net6.0\P517homeWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\P517homeWork2\P517homeWork2\obj\Debug\net6.0\P517homeWork2.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\P517homeWork2\P517homeWork2\obj\Debug\net6.0\P517homeWork2.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\P517homeWork2\P517homeWork2\obj\Debug\net6.0\P517homeWork2.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\P517homeWork2\P517homeWork2\obj\Debug\net6.0\P517homeWork2.dll
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\P517homeWork2\P517homeWork2\obj\Debug\net6.0\refint\P517homeWork2.dll
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\P517homeWork2\P517homeWork2\obj\Debug\net6.0\P517homeWork2.pdb
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\P517homeWork2\P517homeWork2\obj\Debug\net6.0\P517homeWork2.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\P517homeWork2\P517homeWork2\obj\Debug\net6.0\ref\P517homeWork2.dll

@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\PhoneApp\PhoneApp\bin\Debug\net6.0\PhoneApp.exe
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\PhoneApp\PhoneApp\bin\Debug\net6.0\PhoneApp.deps.json
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\PhoneApp\PhoneApp\bin\Debug\net6.0\PhoneApp.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\PhoneApp\PhoneApp\bin\Debug\net6.0\PhoneApp.dll
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\PhoneApp\PhoneApp\bin\Debug\net6.0\PhoneApp.pdb
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\PhoneApp\PhoneApp\obj\Debug\net6.0\PhoneApp.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\PhoneApp\PhoneApp\obj\Debug\net6.0\PhoneApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\PhoneApp\PhoneApp\obj\Debug\net6.0\PhoneApp.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\PhoneApp\PhoneApp\obj\Debug\net6.0\PhoneApp.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\PhoneApp\PhoneApp\obj\Debug\net6.0\PhoneApp.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\PhoneApp\PhoneApp\obj\Debug\net6.0\PhoneApp.dll
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\PhoneApp\PhoneApp\obj\Debug\net6.0\refint\PhoneApp.dll
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\PhoneApp\PhoneApp\obj\Debug\net6.0\PhoneApp.pdb
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\PhoneApp\PhoneApp\obj\Debug\net6.0\PhoneApp.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\PhoneApp\PhoneApp\obj\Debug\net6.0\ref\PhoneApp.dll

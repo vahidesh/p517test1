@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\IntFactorialExtension\IntFactorialExtension\bin\Debug\net6.0\IntFactorialExtension.exe
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\IntFactorialExtension\IntFactorialExtension\bin\Debug\net6.0\IntFactorialExtension.deps.json
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\IntFactorialExtension\IntFactorialExtension\bin\Debug\net6.0\IntFactorialExtension.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\IntFactorialExtension\IntFactorialExtension\bin\Debug\net6.0\IntFactorialExtension.dll
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\IntFactorialExtension\IntFactorialExtension\bin\Debug\net6.0\IntFactorialExtension.pdb
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\IntFactorialExtension\IntFactorialExtension\obj\Debug\net6.0\IntFactorialExtension.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\IntFactorialExtension\IntFactorialExtension\obj\Debug\net6.0\IntFactorialExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\IntFactorialExtension\IntFactorialExtension\obj\Debug\net6.0\IntFactorialExtension.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\IntFactorialExtension\IntFactorialExtension\obj\Debug\net6.0\IntFactorialExtension.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\IntFactorialExtension\IntFactorialExtension\obj\Debug\net6.0\IntFactorialExtension.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\IntFactorialExtension\IntFactorialExtension\obj\Debug\net6.0\IntFactorialExtension.dll
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\IntFactorialExtension\IntFactorialExtension\obj\Debug\net6.0\refint\IntFactorialExtension.dll
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\IntFactorialExtension\IntFactorialExtension\obj\Debug\net6.0\IntFactorialExtension.pdb
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\IntFactorialExtension\IntFactorialExtension\obj\Debug\net6.0\IntFactorialExtension.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\p517\projectsvisual22\IntFactorialExtension\IntFactorialExtension\obj\Debug\net6.0\ref\IntFactorialExtension.dll
